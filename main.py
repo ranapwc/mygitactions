@@ -6,4 +6,5 @@ def bye():
     print("bye")
 
 
-print("Hello from Github Actions")
+if __name__ == "__main__":
+    print("Hello from Github Actions")
